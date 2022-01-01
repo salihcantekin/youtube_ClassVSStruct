@@ -1,0 +1,16 @@
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.exe
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.deps.json
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.runtimeconfig.json
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.runtimeconfig.dev.json
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.dll
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ref\ClassVSStruct.dll
+C:\Youtube\Interviews\Projects\ClassVSStruct\bin\Debug\net5.0\ClassVSStruct.pdb
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.csproj.AssemblyReference.cache
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.AssemblyInfoInputs.cache
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.AssemblyInfo.cs
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.csproj.CoreCompileInputs.cache
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.dll
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ref\ClassVSStruct.dll
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.pdb
+C:\Youtube\Interviews\Projects\ClassVSStruct\obj\Debug\net5.0\ClassVSStruct.genruntimeconfig.cache
